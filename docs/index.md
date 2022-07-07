@@ -5,12 +5,11 @@ title: Chris Smith's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-## CHRIS SMITH
+# CHRIS SMITH
 
 Chris.m.smith852@gmail.com
 
